@@ -1,4 +1,4 @@
 class Post
-  attr_accessor :name, :artist
+  attr_accessor :title, :artist
 
 end
