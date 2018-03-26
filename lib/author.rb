@@ -26,8 +26,3 @@ class Author
     @@post_count
   end
 end
-
-
-
-
-
