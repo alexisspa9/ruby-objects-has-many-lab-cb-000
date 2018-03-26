@@ -4,5 +4,12 @@ class Post
     @title = title
 
   end
+  def author
+    if self.author
+      self.author.name
+    else
+      nil
+    end
+  end
 
 end
