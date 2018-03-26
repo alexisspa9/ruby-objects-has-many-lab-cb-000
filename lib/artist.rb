@@ -17,6 +17,5 @@ class Artist
     c = Song.new
     c.name = name
     c.artist = self
-
   end
 end
