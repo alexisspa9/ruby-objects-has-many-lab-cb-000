@@ -22,7 +22,7 @@ class Author
     @posts << c
 
   end
-  def song_count
-    @@song_count
+  def post_count
+    @@post_count
   end
 end
